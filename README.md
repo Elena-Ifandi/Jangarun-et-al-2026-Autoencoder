@@ -1,6 +1,6 @@
 # Jangarun-et-al-2026-Autoencoder
 
-Autoencoder-based outlier detection for Rare Earth Element (REE) geochemistry in topsoil and subsoil. Exported from the project Notion workspace.
+Autoencoder-based baselines determination of geochemical features in topsoil and subsoil. Exported from the project Notion workspace.
 
 ## Method
 
