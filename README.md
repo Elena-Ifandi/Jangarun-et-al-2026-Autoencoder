@@ -22,5 +22,3 @@ Autoencoder-based baselines determination of geochemical features in topsoil and
 - `Topsoil_<element>_thresholds.png` / `.html`, `Subsoil_<element>_thresholds.png` / `.html` *(to be added manually)* — per-element threshold plots.
 - `Topsoil_thresholds_and_stats.csv`, `Subsoil_thresholds_and_stats.csv` *(to be added manually)* — exported thresholds and statistics.
 - `Untitled.ipynb` *(to be added manually)* — working notebook.
-
-## Run
