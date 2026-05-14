@@ -1,6 +1,6 @@
 # Jangarun-et-al-2026-Autoencoder
 
-Autoencoder-based baselines determination of geochemical features in topsoil and subsoil. Exported from the project Notion workspace.
+Autoencoder-based baselines determination of geochemical features in topsoil and subsoil. Exported from the project Notion workspace https://elena-ifandi-ubd.notion.site/AutoEncoder-35f92470a2ec80d19104eaef8bbe79d2?source=copy_link.
 
 ## Method
 
